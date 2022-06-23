@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1621651718",
+    "project_id": "hr-mureedkay",
+    "storage_bucket": "hr-mureedkay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1621651718:android:3f0ec61c63412cdcca2e87",
+        "android_client_info": {
+          "package_name": "com.amc.HR.Muridke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1621651718-uumr65s7a8fl8fev3qksaoijp1crdrvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIuBapR5yu9cXlPBc4LGC3wJSxfi18rAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1621651718-uumr65s7a8fl8fev3qksaoijp1crdrvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
